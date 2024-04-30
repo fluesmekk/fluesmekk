@@ -1,4 +1,4 @@
-![fluesmekk's Stats](https://github-readme-stats.vercel.app/api?username=fluesmekk&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+![fluesmekk's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fluesmekk&theme=vue-dark&hide_border=true)
 
 <!--
 **fluesmekk/fluesmekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
